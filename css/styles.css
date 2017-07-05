@@ -1,0 +1,9 @@
+.walrus-showing {
+  display: none;
+}
+.clickable {
+  border: solid 2;
+  background-color: #006bff;
+  color: #ffffff;
+  cursor: pointer;
+}
